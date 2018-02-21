@@ -5,19 +5,19 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
-# /[Ll]ibrary/AnnotationManager*
-# /[Ll]ibrary/assetDatabase3*
-# /[Ll]ibrary/AssetImportState*
-# /[Ll]ibrary/BuildPlayer.prefs
-# /[Ll]ibrary/BuildSettings.asset
-/[Ll]ibrary/cache/
-# /[Ll]ibrary/CurrentLayout.dwlt
-# /[Ll]ibrary/EditorUserBuildSettings.asset
-# /[Ll]ibrary/EditorUserSettings.asset
-# /[Ll]ibrary/expandedItems*
-# /[Ll]ibrary/InspectorExpandedItems.asset
-# /[Ll]ibrary/LastSceneManagerSetup.txt
-# /[Ll]ibrary/LibraryFormatVersion.txt
+/[Ll]ibrary/AnnotationManager*
+/[Ll]ibrary/assetDatabase3*
+/[Ll]ibrary/AssetImportState*
+/[Ll]ibrary/BuildPlayer.prefs
+/[Ll]ibrary/BuildSettings.asset
+# /[Ll]ibrary/cache/
+/[Ll]ibrary/CurrentLayout.dwlt
+/[Ll]ibrary/EditorUserBuildSettings.asset
+/[Ll]ibrary/EditorUserSettings.asset
+/[Ll]ibrary/expandedItems*
+/[Ll]ibrary/InspectorExpandedItems.asset
+/[Ll]ibrary/LastSceneManagerSetup.txt
+/[Ll]ibrary/LibraryFormatVersion.txt
 /[Ll]ibrary/metadata/
 /[Ll]ibrary/MonoManager.asset
 /[Ll]ibrary/ProjectSettings.asset
