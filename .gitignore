@@ -18,16 +18,16 @@
 /[Ll]ibrary/InspectorExpandedItems.asset
 /[Ll]ibrary/LastSceneManagerSetup.txt
 /[Ll]ibrary/LibraryFormatVersion.txt
-# /[Ll]ibrary/metadata/
-/[Ll]ibrary/MonoManager.asset
-/[Ll]ibrary/ProjectSettings.asset
-/[Ll]ibrary/ScriptAssemblies/
-/[Ll]ibrary/ScriptMapper*
-/[Ll]ibrary/ShaderCache/
-/[Ll]ibrary/shadercompiler-UnityShaderCompiler0.log
-/[Ll]ibrary/shadercompiler-UnityShaderCompiler.exe0.log
-/[Ll]ibrary/SpriteAtlasDatabase.asset
-/[Ll]ibrary/TilemapEditorUserSettings.asset
+/[Ll]ibrary/metadata/
+# /[Ll]ibrary/MonoManager.asset
+# /[Ll]ibrary/ProjectSettings.asset
+# /[Ll]ibrary/ScriptAssemblies/
+# /[Ll]ibrary/ScriptMapper*
+# /[Ll]ibrary/ShaderCache/
+# /[Ll]ibrary/shadercompiler-UnityShaderCompiler0.log
+# /[Ll]ibrary/shadercompiler-UnityShaderCompiler.exe0.log
+# /[Ll]ibrary/SpriteAtlasDatabase.asset
+# /[Ll]ibrary/TilemapEditorUserSettings.asset
 /[Ll]ibrary/GridBrush/
 
 # Visual Studio 2015 cache directory
