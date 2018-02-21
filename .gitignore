@@ -1,9 +1,34 @@
-/[Ll]ibrary/
+# /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+
+/[Ll]ibrary/AnnotationManager*
+/[Ll]ibrary/assetDatabase3*
+/[Ll]ibrary/AssetImportState*
+/[Ll]ibrary/BuildPlayer.prefs
+/[Ll]ibrary/BuildSettings.asset
+/[Ll]ibrary/cache/
+/[Ll]ibrary/CurrentLayout.dwlt
+/[Ll]ibrary/EditorUserBuildSettings.asset
+/[Ll]ibrary/EditorUserSettings.asset
+/[Ll]ibrary/expandedItems*
+/[Ll]ibrary/InspectorExpandedItems.asset
+/[Ll]ibrary/LastSceneManagerSetup.txt
+/[Ll]ibrary/LibraryFormatVersion.txt
+# /[Ll]ibrary/metadata/
+/[Ll]ibrary/MonoManager.asset
+/[Ll]ibrary/ProjectSettings.asset
+/[Ll]ibrary/ScriptAssemblies/
+/[Ll]ibrary/ScriptMapper*
+/[Ll]ibrary/ShaderCache/
+/[Ll]ibrary/shadercompiler-UnityShaderCompiler0.log
+/[Ll]ibrary/shadercompiler-UnityShaderCompiler.exe0.log
+/[Ll]ibrary/SpriteAtlasDatabase.asset
+/[Ll]ibrary/TilemapEditorUserSettings.asset
+/[Ll]ibrary/GridBrush/
 
 # Visual Studio 2015 cache directory
 /.vs/
